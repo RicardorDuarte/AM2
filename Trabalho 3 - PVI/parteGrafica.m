@@ -35,7 +35,7 @@ if isempty(Lista) %failsafe para evitar problemas
 end
 
 
-[header, tabela] = fazerTabela(Lista, strF, f, a, b, n, y0);
+[header, tabela] = FazTabela(Lista, strF, f, a, b, n, y0);
 tamanho = length(Lista);
 
 fprintf('------------------------Tabela------------------------');
