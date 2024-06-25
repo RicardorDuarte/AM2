@@ -1,4 +1,4 @@
-=========================================================================================================================== Trabalhos de Análise Matemática II - Matemática computacional ======================================================================================================================
+                        Trabalhos de Análise Matemática II - Matemática computacional
 
 Trabalho 3 - Métodos Numéricos para resolver Equacões Diferenciais Ordinárias/Problemas de Valir Inicial [4,5/5]. faltou verificação + mensagem de erro para quando for inserido h > b-a não pode ir de A para B com um passo maior que b-a.
 
